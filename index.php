@@ -26,7 +26,7 @@ if(isset($_SESSION["usuario"])){
             ?>
             <div class="logo">
                 🔐
- 
+
             </div>
             <h1>
                 Bem - Vindo!
